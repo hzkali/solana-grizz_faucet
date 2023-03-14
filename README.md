@@ -27,6 +27,6 @@ In conclusion, the Solana faucet app is a valuable tool for developers who are l
 ## link
 ## 🔗 Links
 [![website]()](https:///)
-[![website](https://img.shields.io/badge/youtube-0A66C2?style=for-the-badge&logo=youtube&logoColor=red)](/https://youtu.be/fbWQruYFGdo)
+[![website](https://img.shields.io/badge/youtube-0A66C2?style=for-the-badge&logo=youtube&logoColor=red)](https://youtu.be/fbWQruYFGdo)
 
 
